@@ -1,0 +1,2 @@
+webpackJsonp([11],{NTUI:function(e,t,n){"use strict";var s=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},r=[],a={render:s,staticRenderFns:r};t.a=a},UeUk:function(e,t,n){"use strict";t.a={created:function(){this.$router.replace("/websites/1/build/pages/"+data.settings.homePage)}}},s9eT:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s=n("UeUk"),r=n("NTUI"),a=n("VU/8"),u=a(s.a,r.a,null,null,null);t.default=u.exports}});
+//# sourceMappingURL=11.76cdafdfd11a3eae4d24.js.map
